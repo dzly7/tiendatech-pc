@@ -1,0 +1,15 @@
+# Archivos temporales y de Office
+~$*
+*.docx
+*.pdf
+
+# Archivos y repositorios de prácticas Java
+*.java
+practica-arreglos-java/
+practica-estudiante-java/
+
+# Otros archivos de prácticas no relacionados
+prueba.html
+diagrama_flujo_v2.jpg
+gamma_data.json
+gamma_out.html
